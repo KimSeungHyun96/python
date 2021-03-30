@@ -1,1 +1,71 @@
-<mxfile host="app.diagrams.net" modified="2021-03-30T06:50:25.893Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36" etag="V3i91_ruB4_B4TO6cMBv" version="14.5.3" type="github"><diagram id="Dyaup0tKDro3me_QTSrw" name="Page-1">5RrZkto48GtclTyQsuX7EQPJbm22KrXzsMlTSoM14FlhsUYMkK/f1oUvDYE5cDbJw0RqdbekvlvG8Ser/YcKr5d/spxQB7n53vGnDkKem6Twn4AcFCRMXAVYVEWukWrATfGNGEoN3RY52bQQOWOUF+s2cM7Kksx5C4ariu3aaHeMtndd4wXpAW7mmPahfxc5XypoguIa/hspFkuzsxfpC6+wQdY32SxxznYNkD9z/EnFGFej1X5CqBCekYuie//I6vFgFSn5OQQf0V9f7+P7m09//J5+mH3df8tjMvIVlwdMt/rC+rD8YCRAchCInrKKL9mClZjOamhWsW2ZE7GNC7Ma5yNjawB6ALwnnB+0dvGWMwAt+YrqVbWn2OjRu2nQhm2rOTlxIWMjuFoQfgIPHTUApkvYivDqAHQVoZgXD+1zYG1DiyNeLWYYaElfIHWvL/XZxEkyJ52IQTpzUq+vB0rB6IW8d8uCk5s1loLYgd/ZpPlAKk72p+XZv78m8MNAkWivNTa8q13AM7Blw/yNc7+4xMKfzU7RmXYaDGmnyGqnaexkrhiMfSeTBgvTcSKYlestd1BE4UbZbQWjhRidwu0o8fqm7aVn2nb0WrYd/2y2HZxp29GgMdgShH8NsXvukHIPLoopYmnqpCJg2FbHYiCSjg4nM8ANRRY9Jwa1eEtOKZwlczJAC8QAEvI4EKsWblMn8SQaECInm0pukglyWaWPqxK52iex4nYMrlqy1e12c50c73utQOj7lkAYRf1A6L1aJETR/9wFnxvRNOknVsDOR015UfwubfyL45bioq4+VATQTDoqOZ7q6VqK+h4cnvSIcGr3x0ecfqR9uV80XL1YgP617SPJ0MWClw7hImRf8M+aXIy/NODTfWNhejCTEm772aCJyZfmSk0kZ4bqBV3RPCB8Px0O2gqifhK4oj69y/Xp/vD6DActK117dDyjGLg0TFrbKiDEKxEIFTlyLdWLqE+6MLdJSzXt03c3HLxha5ywkyp/hBpnkAD+ko743HhpL3LC2G8VOe3EG8XXrXG8S58+RvYO5TyHfNPoP2R8yALjfZEOGkkiOpVGw2OLFdCyIIk2EX/HEwGBfiiZSMJUDuCIseYgeh1X4qumJ5RAaIkyEaAs/FXIUt2Sumfj2Fkkny+hZ4Kbh2/7ft+y4df3/aBjQiEK+74foivWbv4guf4lXf+5qdXu+nEQvguHdXfb+7Ky/80aly2dRf9uxSebbM4oJFJ/LO6/uH2jfHKiHNyM3oqh9Po7VvLRHV4V9KBojnHBgawUCJUR+kB4Mce9lTaTjVS0YOGh9b6zpk4pFktWrTBtL++0lYv1QJ1TLlIwIFKN4KrzolxY6cEP+QjTYlGq5TkYD6naywUYaqnZu42jyUVe4XJzB0wN+5IcEXasytu7N8lv8fyfhXSDUUfmKEiOsgZ/r8dhQ/J5sVlTrKVelLRobHxHGebNAxnlXqEs6oVXDQEDVjZ3OjeYly5dWcpoPo5E0FcHVAnDXlBOTezuvlw1bgY54L2sUwGSmoRhu5vYC8lkY46nmKRadlqijWFdBKskBANgq7KdIh8HYkfzBDd8LjnGo5O5xLtiLkGW52shOOQkoTQFX2T7XroZ8BtiNPhHRHTOl5YyH4ufDcBsTvFmU8w7nbO9D4b89VKd8Pc/XT8i94ZcQ4tYDey5j5EdV+i9Pqoqopeq+wV/1PGp8Lo537d40JOtwftFrSEOO9bQLdyGtwaY1j+yUej1T5X82X8=</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-03-30T09:12:40.992Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36" etag="1exMRdPZmMjM7XsPkgw4" version="14.5.3" type="github">
+  <diagram id="Dyaup0tKDro3me_QTSrw" name="Page-1">
+    <mxGraphModel dx="1031" dy="824" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="L2R_j7jSPKI9GE_xzd7e-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="L2R_j7jSPKI9GE_xzd7e-1" target="L2R_j7jSPKI9GE_xzd7e-2" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="L2R_j7jSPKI9GE_xzd7e-1" value="시작" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="354" y="20" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="L2R_j7jSPKI9GE_xzd7e-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="L2R_j7jSPKI9GE_xzd7e-2" target="L2R_j7jSPKI9GE_xzd7e-4" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="L2R_j7jSPKI9GE_xzd7e-2" value="연주차 input&lt;br&gt;주차 input" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="354" y="190" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="L2R_j7jSPKI9GE_xzd7e-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="L2R_j7jSPKI9GE_xzd7e-4" target="L2R_j7jSPKI9GE_xzd7e-6" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="L2R_j7jSPKI9GE_xzd7e-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="L2R_j7jSPKI9GE_xzd7e-4" target="L2R_j7jSPKI9GE_xzd7e-10" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="L2R_j7jSPKI9GE_xzd7e-4" value="연주차의 주차가 input한&lt;br&gt;주차의 값보다 &lt;br&gt;클경우 or 작을경우" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="331" y="330" width="166" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="xuEie50Una2wbcKCKbBW-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="L2R_j7jSPKI9GE_xzd7e-6" target="L2R_j7jSPKI9GE_xzd7e-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="L2R_j7jSPKI9GE_xzd7e-6" value="[클경우]&lt;br&gt;연주차-input주차" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="108" y="380" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="L2R_j7jSPKI9GE_xzd7e-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0;entryDx=0;entryDy=0;" parent="1" source="L2R_j7jSPKI9GE_xzd7e-10" target="L2R_j7jSPKI9GE_xzd7e-12" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="L2R_j7jSPKI9GE_xzd7e-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0;entryDx=0;entryDy=0;" parent="1" source="L2R_j7jSPKI9GE_xzd7e-10" target="L2R_j7jSPKI9GE_xzd7e-15" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="L2R_j7jSPKI9GE_xzd7e-10" value="[작을경우]&lt;br&gt;연주차-주차 &amp;gt; 0&lt;br&gt;or&lt;br&gt;0 &amp;lt; 연주차-주차 &amp;lt; 10" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="577" y="330" width="166" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="L2R_j7jSPKI9GE_xzd7e-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="L2R_j7jSPKI9GE_xzd7e-12" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="573.9999999999998" y="670" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="L2R_j7jSPKI9GE_xzd7e-12" value="연주차 - 주차 &amp;gt; 0&lt;br&gt;(값이 양수가 &lt;br&gt;나올때까지 반복 후&lt;br&gt;결과값출력)" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="498" y="525" width="152" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="L2R_j7jSPKI9GE_xzd7e-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="L2R_j7jSPKI9GE_xzd7e-15" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="745.5" y="670" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="L2R_j7jSPKI9GE_xzd7e-15" value="&lt;span style=&quot;color: rgb(0 , 0 , 0) ; font-family: &amp;#34;helvetica&amp;#34; ; font-size: 12px ; font-style: normal ; font-weight: 400 ; letter-spacing: normal ; text-align: center ; text-indent: 0px ; text-transform: none ; word-spacing: 0px ; background-color: rgb(248 , 249 , 250) ; display: inline ; float: none&quot;&gt;0 &amp;lt; 연주차-주차 &amp;lt; 10&lt;br&gt;&lt;/span&gt;(값이 한자리 수&lt;br&gt;일경우 연도와 주차 사이에 &quot;0&quot;을 넣어준다)" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="670" y="525" width="151" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="L2R_j7jSPKI9GE_xzd7e-21" value="종료" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="354" y="620" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="L2R_j7jSPKI9GE_xzd7e-31" value="" style="endArrow=classic;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" target="L2R_j7jSPKI9GE_xzd7e-21" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="750" y="670" as="sourcePoint" />
+            <mxPoint x="560" y="550" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
