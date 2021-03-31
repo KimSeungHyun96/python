@@ -68,3 +68,17 @@ public class Exec0316_2 {
 		}
 	}
 }
+
+//		System.out.println("숫자(정수)를 입력해주세요.");
+//		Scanner s1 = new Scanner(System.in);
+//		int number = s1.nextInt();
+//		
+//		System.out.println("입력받은 숫자는 " + number + "입니다.");
+//		
+//		boolean isPrime = true;
+//		for (int i =2; i < number; i++) {
+//			if (i )
+//		}
+//		
+
+		
